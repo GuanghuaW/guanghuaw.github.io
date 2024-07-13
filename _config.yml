@@ -27,7 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student" # "Short biography for the left-hand sidebar"
   location         : "Richardson, Texas"
-  employer         : "Department of Computer Science, The University of Texas at Dallas"
+  Department       : "Computer Science"
+  employer         : "The University of Texas at Dallas"
   uri              : # URL
   email            : "guanghua.wang@utdallas.edu" 
 
