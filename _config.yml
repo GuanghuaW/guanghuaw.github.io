@@ -25,9 +25,9 @@ author:
   name             : "Guanghua"
   pronunciation    : "/ˈɡwɑːŋ hwɑː/ ('Gwong Hwah')"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student" # "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate" # "Short biography for the left-hand sidebar"
   location         : "Richardson, Texas"
-  Department       : "Computer Science"
+  department       : "Computer Science"
   employer         : "The University of Texas at Dallas"
   uri              : # URL
   email            : "guanghua.wang@utdallas.edu" 
