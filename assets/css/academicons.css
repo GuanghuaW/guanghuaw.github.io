@@ -569,3 +569,13 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.title {
+    font-size: 1.1em; /* Adjust as needed */
+    color: #333; /* Darker color for the title */
+}
+
+.details {
+    font-size: 0.9em; /* Smaller font size for details */
+    color: #555; /* Lighter color for details */
+}
