@@ -30,6 +30,6 @@
 </div>
 
 <div class="publication">
-    <p><u>{{ post.title }}</u>{% if post.link %} [<a href="{{ post.link }}" download>pdf</a>]{% endif %}</p>
+    <p><strong>{{ post.title }}</strong> {% if post.link %}[<a href="{{ post.link }}" download>pdf</a>]{% endif %}</p>
     <p>{{ post.authors }}, <em>{{ post.venue }}</em>, {{ post.year }}</p>
 </div>
