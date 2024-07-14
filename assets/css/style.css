@@ -1,7 +1,7 @@
 .publication .title {
     font-size: 1.1em !important; /* Adjust as needed */
     color: #333 !important; /* Darker color for the title */
-    margin-bottom: 0.2em !important; /* Adjust this value to control the space between title and details */
+    margin-bottom: 20em !important; /* Adjust this value to control the space between title and details */
 }
 
 .publication .details {
