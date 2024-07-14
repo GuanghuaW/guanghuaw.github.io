@@ -1,11 +1,11 @@
 .publication .title {
-    font-size: 1.1em; /* Adjust as needed */
-    color: #333; /* Darker color for the title */
-    margin-bottom: 0.2em; /* Adjust this value to control the space between title and details */
+    font-size: 1.1em !important; /* Adjust as needed */
+    color: #333 !important; /* Darker color for the title */
+    margin-bottom: 0.2em !important; /* Adjust this value to control the space between title and details */
 }
 
 .publication .details {
-    font-size: 0.9em; /* Smaller font size for details */
-    color: #555; /* Lighter color for details */
-    margin-top: 0; /* Remove any extra space at the top */
+    font-size: 0.9em !important; /* Smaller font size for details */
+    color: #555 !important; /* Lighter color for details */
+    margin-top: 0 !important; /* Remove any extra space at the top */
 }
