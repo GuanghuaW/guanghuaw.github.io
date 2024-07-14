@@ -11,4 +11,4 @@ redirect_from:
 
 Below you can find my CV for detailed information.
 
-[My Curriculum Vitae](GW.pdf)
+[My Curriculum Vitae](files/GW.pdf)
