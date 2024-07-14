@@ -29,10 +29,10 @@
 </div>
 
 <div class="publication">
-    <p>
+    <p class="title">
         <strong>{{ post.title }}</strong> {% if post.link %}[<a href="{{ post.link }}" download>pdf</a>]{% endif %}
     </p>
-    <p>
+    <p class="details">
         {{ post.authors | replace: 'Guanghua Wang', '<strong>Guanghua Wang</strong>' }}, <em>{{ post.venue }}</em>, {{ post.year }}
     </p>
 </div>
