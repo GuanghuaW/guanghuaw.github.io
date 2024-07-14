@@ -6,11 +6,6 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -33,7 +28,7 @@
     <p>
         <strong>{{ post.title }}</strong> {% if post.link %}[<a href="{{ post.link }}" download>pdf</a>]{% endif %}
         {{ post.authors | replace: 'Guanghua Wang', '<strong>Guanghua Wang</strong>' | markdownify }},
-        <em>{{ post.venue }}</em>,
+        0<em>{{ post.venue }}</em>,
         {{ post.year }}
     </p>
 </div>
