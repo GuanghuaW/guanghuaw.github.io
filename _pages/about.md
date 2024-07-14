@@ -11,4 +11,4 @@ I am a Ph.D. candidate in the [Department of Computer Science](https://cs.utdall
 
 I have been working under the mentorship of [Dr. Weili Wu](https://personal.utdallas.edu/~weiliwu/). My dissertation focuses on adapting automatic summarization techniques to social networks.
 
-I hold a Master’s degree from Peking University and a Bachelor's from Northeastern University.
+I hold a Master’s degree from Peking University and a Bachelor's from Northeastern University in China.
