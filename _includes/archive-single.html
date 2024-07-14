@@ -29,8 +29,10 @@
 </div>
 
 <div class="publication">
-  <p>
-    <strong>{{ post.title }}</strong> {% if post.link %}[<a href="{{ post.link }}" download>pdf</a>]{% endif %} 
-    {{ post.authors }}, <em>{{ post.venue }}</em>, {{ post.year }}
-  </p>
+    <p>
+        <strong>{{ post.title }}</strong> {% if post.link %}[<a href="{{ post.link }}" download>pdf</a>]{% endif %}
+    </p>
+    <p>
+        {{ post.authors }}, <em>{{ post.venue }}</em>, {{ post.year }}
+    </p>
 </div>
