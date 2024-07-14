@@ -31,7 +31,10 @@
 
 <div class="publication">
     <p>
-        <strong>{{ post.title }}</strong> {% if post.link %}[<a href="{{ post.link }}" download>pdf</a>]{% endif %} <br>
-        {{ post.authors | replace: 'Guanghua Wang', '<strong>Guanghua Wang</strong>' | markdownify }}, <em>{{ post.venue }}</em>, {{ post.year }}
+        <strong>{{ post.title }}</strong> 
+        {% if post.link %}[<a href="{{ post.link }}" download>pdf</a>]{% endif %} 
+        {{ post.authors | replace: 'Guanghua Wang', '<strong>Guanghua Wang</strong>' | markdownify }}, 
+        <em>{{ post.venue }}</em>, 
+        {{ post.year }}
     </p>
 </div>
