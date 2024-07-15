@@ -16,5 +16,5 @@
     color: #555 !important; /* Lighter color for details */
     margin-top: 0 !important; /* Reset any default top margin */
     padding-top: 0 !important; /* Reset any default top padding */
-    line-height: 1.2 !important; /* Match line-height for consistency */
+    line-height: 0.2 !important; /* Match line-height for consistency */
 }
