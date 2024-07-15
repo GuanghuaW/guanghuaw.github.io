@@ -1,6 +1,6 @@
 .publication {
-    margin: 0 !important;
-    padding: 0 !important;
+    margin: 0;
+    padding: 0;
 }
 
 .publication .title {
@@ -8,7 +8,8 @@
     color: #333 !important; /* Darker color for the title */
     margin: 0 !important; /* Reset any default margin */
     padding: 0 !important; /* Reset any default padding */
-    line-height: 1.2 !important; /* Adjust to control the space between lines */
+    line-height: 1em !important; /* Adjust to control the space between lines */
+    display: inline-block; /* Ensure the height is controlled */
 }
 
 .publication .details {
@@ -16,5 +17,6 @@
     color: #555 !important; /* Lighter color for details */
     margin: 0 !important; /* Reset any default margin */
     padding: 0 !important; /* Reset any default padding */
-    line-height: 1.2 !important; /* Match line-height for consistency */
+    line-height: 1em !important; /* Match line-height for consistency */
+    display: inline-block; /* Ensure the height is controlled */
 }
