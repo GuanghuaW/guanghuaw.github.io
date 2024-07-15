@@ -8,8 +8,7 @@
     color: #333 !important; /* Darker color for the title */
     margin: 0 !important; /* Reset any default margin */
     padding: 0 !important; /* Reset any default padding */
-    line-height: 1em !important; /* Adjust to control the space between lines */
-    display: inline-block; /* Ensure the height is controlled */
+    line-height: 1.2 !important; /* Adjust to control the space between lines */
 }
 
 .publication .details {
@@ -17,6 +16,5 @@
     color: #555 !important; /* Lighter color for details */
     margin: 0 !important; /* Reset any default margin */
     padding: 0 !important; /* Reset any default padding */
-    line-height: 1em !important; /* Match line-height for consistency */
-    display: inline-block; /* Ensure the height is controlled */
+    line-height: 1.2 !important; /* Match line-height for consistency */
 }
