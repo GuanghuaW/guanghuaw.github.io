@@ -1,9 +1,9 @@
-.publication {
+.publication_page {
     margin: 0 !important;
     padding: 0 !important;
 }
 
-.publication .title {
+.publication_page .publication_title {
     font-size: 1.1em !important; /* Adjust as needed */
     color: #333 !important; /* Darker color for the title */
     margin: 0 !important; /* Reset any default margin */
@@ -12,7 +12,7 @@
     display: inline-block; /* Ensure the height is controlled */
 }
 
-.publication .details {
+.publication_page .publication_details {
     font-size: 0.9em !important; /* Smaller font size for details */
     color: #555 !important; /* Lighter color for details */
     margin: 0 !important; /* Reset any default margin */
