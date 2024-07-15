@@ -6,16 +6,15 @@
 .publication .title {
     font-size: 1.1em !important; /* Adjust as needed */
     color: #333 !important; /* Darker color for the title */
-    margin: 0 !important; /* Reset any default margin */
-    padding: 0 !important; /* Reset any default padding */
-    line-height: 1em !important; /* Adjust to control the space between lines */
+    margin-bottom: 0 !important; /* Reset any default bottom margin */
+    padding-bottom: 0 !important; /* Reset any default bottom padding */
+    line-height: 1.2 !important; /* Adjust line-height to control the space between lines */
 }
 
 .publication .details {
     font-size: 0.9em !important; /* Smaller font size for details */
     color: #555 !important; /* Lighter color for details */
-    margin: 0 !important; /* Reset any default margin */
-    padding: 0 !important; /* Reset any default padding */
-    line-height: 1em !important; /* Match line-height for consistency */
+    margin-top: 0 !important; /* Reset any default top margin */
+    padding-top: 0 !important; /* Reset any default top padding */
+    line-height: 1.2 !important; /* Match line-height for consistency */
 }
-
