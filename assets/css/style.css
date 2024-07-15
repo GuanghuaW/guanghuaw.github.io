@@ -1,22 +1,9 @@
-.publication {
-    margin: 0;
-    padding: 0;
+.title {
+    font-size: 1.1em; /* Adjust as needed */
+    color: #333; /* Darker color for the title */
 }
 
-.publication .title {
-    font-size: 1.1em !important; /* Adjust as needed */
-    color: #333 !important; /* Darker color for the title */
-    margin: 0 !important; /* Reset any default margin */
-    padding: 0 !important; /* Reset any default padding */
-    line-height: 1em !important; /* Adjust to control the space between lines */
-    display: inline-block; /* Ensure the height is controlled */
-}
-
-.publication .details {
-    font-size: 0.9em !important; /* Smaller font size for details */
-    color: #555 !important; /* Lighter color for details */
-    margin: 0 !important; /* Reset any default margin */
-    padding: 0 !important; /* Reset any default padding */
-    line-height: 1em !important; /* Match line-height for consistency */
-    display: inline-block; /* Ensure the height is controlled */
+.details {
+    font-size: 0.9em; /* Smaller font size for details */
+    color: #555; /* Lighter color for details */
 }
