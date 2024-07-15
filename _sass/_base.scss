@@ -319,12 +319,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   font-family: 'Georgia', serif; // Use the font family from the provided screenshot
   font-size: 1rem; // Adjust as needed
   line-height: 1.6; // Adjust as needed
-  margin: 0 0 2em 0; // Add bottom margin to increase space between publications
+  margin: 0 0 1em 0; // Add bottom margin to increase space between publications
   padding: 0;
 }
 
 .publication .title {
-  font-size: 1.2em; // Adjust as needed to match the size in the screenshot
+  font-size: 1em; // Adjust as needed to match the size in the screenshot
   color: #0056b3; // Adjust color to match the screenshot if needed
   margin: 0;
   padding: 0;
@@ -332,7 +332,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 .publication .details {
-  font-size: 0.9em; // Smaller font size for details
+  font-size: 0.8em; // Smaller font size for details
   color: #555; // Lighter color for details
   margin: 0;
   padding: 0;
