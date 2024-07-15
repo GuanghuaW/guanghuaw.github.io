@@ -21,31 +21,6 @@ body {
   }
 }
 
-/* Add Publication Styles */
-.publication {
-  font-family: 'Georgia', serif; // Use the font family from the provided screenshot
-  font-size: 1rem; // Adjust as needed
-  line-height: 1.6; // Adjust as needed
-  margin: 0;
-  padding: 0;
-}
-
-.publication .title {
-  font-size: 1.2em; // Adjust as needed to match the size in the screenshot
-  color: #0056b3; // Adjust color to match the screenshot if needed
-  margin: 0;
-  padding: 0;
-  line-height: 1.4; // Adjust to control the space between lines
-}
-
-.publication .details {
-  font-size: 0.9em; // Smaller font size for details
-  color: #555; // Lighter color for details
-  margin: 0;
-  padding: 0;
-  line-height: 1.4; // Match line-height for consistency
-}
-
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
@@ -337,4 +312,29 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
+}
+
+/* Add Publication Styles */
+.publication {
+  font-family: 'Georgia', serif; // Use the font family from the provided screenshot
+  font-size: 1rem; // Adjust as needed
+  line-height: 1.6; // Adjust as needed
+  margin: 0;
+  padding: 0;
+}
+
+.publication .title {
+  font-size: 1.2em; // Adjust as needed to match the size in the screenshot
+  color: #0056b3; // Adjust color to match the screenshot if needed
+  margin: 0;
+  padding: 0;
+  line-height: 1.4; // Adjust to control the space between lines
+}
+
+.publication .details {
+  font-size: 0.9em; // Smaller font size for details
+  color: #555; // Lighter color for details
+  margin: 0;
+  padding: 0;
+  line-height: 1.4; // Match line-height for consistency
 }
