@@ -21,6 +21,30 @@ body {
   }
 }
 
+/* Add Publication Styles */
+.publication {
+  font-family: 'YourFontFamily', sans-serif; // Replace with your desired font family
+  font-size: 1rem; // Adjust as needed
+  margin: 0;
+  padding: 0;
+}
+
+.publication .title {
+  font-size: 1.1em; // Adjust as needed
+  color: #333; // Darker color for the title
+  margin: 0;
+  padding: 0;
+  line-height: 1.2; // Adjust to control the space between lines
+}
+
+.publication .details {
+  font-size: 0.9em; // Smaller font size for details
+  color: #555; // Lighter color for details
+  margin: 0;
+  padding: 0;
+  line-height: 1.2; // Match line-height for consistency
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
