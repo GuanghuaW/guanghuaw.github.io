@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-* Program Committee of AAAI 2024
-* Program Committee of LREC-COLING 2024 
+* Program Committee of AAAI 2024, 2025
+* Program Committee of LREC-COLING 2024, 2025 
 * Program Committee of AAIM 2024
 * Program Committee of COCOA 2023 
 
